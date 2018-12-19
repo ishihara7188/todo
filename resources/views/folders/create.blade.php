@@ -1,5 +1,5 @@
 @extends('layouts.top')
-@section('title', 'ToDO List')
+@section('title', 'ToDo List')
 @section('content')
     <div class="row">
         <div class="col col-md-offset-3 col-md-6">
